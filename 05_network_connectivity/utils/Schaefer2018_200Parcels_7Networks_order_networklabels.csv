@@ -1,0 +1,201 @@
+index,network,network_index,roi_label
+1,visual,1,7Networks_LH_Vis_1
+2,visual,1,7Networks_LH_Vis_2
+3,visual,1,7Networks_LH_Vis_3
+4,visual,1,7Networks_LH_Vis_4
+5,visual,1,7Networks_LH_Vis_5
+6,visual,1,7Networks_LH_Vis_6
+7,visual,1,7Networks_LH_Vis_7
+8,visual,1,7Networks_LH_Vis_8
+9,visual,1,7Networks_LH_Vis_9
+10,visual,1,7Networks_LH_Vis_10
+11,visual,1,7Networks_LH_Vis_11
+12,visual,1,7Networks_LH_Vis_12
+13,visual,1,7Networks_LH_Vis_13
+14,visual,1,7Networks_LH_Vis_14
+15,somatomotor,2,7Networks_LH_SomMot_1
+16,somatomotor,2,7Networks_LH_SomMot_2
+17,somatomotor,2,7Networks_LH_SomMot_3
+18,somatomotor,2,7Networks_LH_SomMot_4
+19,somatomotor,2,7Networks_LH_SomMot_5
+20,somatomotor,2,7Networks_LH_SomMot_6
+21,somatomotor,2,7Networks_LH_SomMot_7
+22,somatomotor,2,7Networks_LH_SomMot_8
+23,somatomotor,2,7Networks_LH_SomMot_9
+24,somatomotor,2,7Networks_LH_SomMot_10
+25,somatomotor,2,7Networks_LH_SomMot_11
+26,somatomotor,2,7Networks_LH_SomMot_12
+27,somatomotor,2,7Networks_LH_SomMot_13
+28,somatomotor,2,7Networks_LH_SomMot_14
+29,somatomotor,2,7Networks_LH_SomMot_15
+30,somatomotor,2,7Networks_LH_SomMot_16
+31,dorsal attention,3,7Networks_LH_DorsAttn_Post_1
+32,dorsal attention,3,7Networks_LH_DorsAttn_Post_2
+33,dorsal attention,3,7Networks_LH_DorsAttn_Post_3
+34,dorsal attention,3,7Networks_LH_DorsAttn_Post_4
+35,dorsal attention,3,7Networks_LH_DorsAttn_Post_5
+36,dorsal attention,3,7Networks_LH_DorsAttn_Post_6
+37,dorsal attention,3,7Networks_LH_DorsAttn_Post_7
+38,dorsal attention,3,7Networks_LH_DorsAttn_Post_8
+39,dorsal attention,3,7Networks_LH_DorsAttn_Post_9
+40,dorsal attention,3,7Networks_LH_DorsAttn_Post_10
+41,dorsal attention,3,7Networks_LH_DorsAttn_FEF_1
+42,dorsal attention,3,7Networks_LH_DorsAttn_FEF_2
+43,dorsal attention,3,7Networks_LH_DorsAttn_PrCv_1
+44,salience / ventral attention,4,7Networks_LH_SalVentAttn_ParOper_1
+45,salience / ventral attention,4,7Networks_LH_SalVentAttn_ParOper_2
+46,salience / ventral attention,4,7Networks_LH_SalVentAttn_ParOper_3
+47,salience / ventral attention,4,7Networks_LH_SalVentAttn_FrOperIns_1
+48,salience / ventral attention,4,7Networks_LH_SalVentAttn_FrOperIns_2
+49,salience / ventral attention,4,7Networks_LH_SalVentAttn_FrOperIns_3
+50,salience / ventral attention,4,7Networks_LH_SalVentAttn_FrOperIns_4
+51,salience / ventral attention,4,7Networks_LH_SalVentAttn_PFCl_1
+52,salience / ventral attention,4,7Networks_LH_SalVentAttn_Med_1
+53,salience / ventral attention,4,7Networks_LH_SalVentAttn_Med_2
+54,salience / ventral attention,4,7Networks_LH_SalVentAttn_Med_3
+55,limbic,5,7Networks_LH_Limbic_OFC_1
+56,limbic,5,7Networks_LH_Limbic_OFC_2
+57,limbic,5,7Networks_LH_Limbic_TempPole_1
+58,limbic,5,7Networks_LH_Limbic_TempPole_2
+59,limbic,5,7Networks_LH_Limbic_TempPole_3
+60,limbic,5,7Networks_LH_Limbic_TempPole_4
+61,control,6,7Networks_LH_Cont_Par_1
+62,control,6,7Networks_LH_Cont_Par_2
+63,control,6,7Networks_LH_Cont_Par_3
+64,control,6,7Networks_LH_Cont_Temp_1
+65,control,6,7Networks_LH_Cont_OFC_1
+66,control,6,7Networks_LH_Cont_PFCl_1
+67,control,6,7Networks_LH_Cont_PFCl_2
+68,control,6,7Networks_LH_Cont_PFCl_3
+69,control,6,7Networks_LH_Cont_PFCl_4
+70,control,6,7Networks_LH_Cont_PFCl_5
+71,control,6,7Networks_LH_Cont_pCun_1
+72,control,6,7Networks_LH_Cont_Cing_1
+73,control,6,7Networks_LH_Cont_Cing_2
+74,default,7,7Networks_LH_Default_Temp_1
+75,default,7,7Networks_LH_Default_Temp_2
+76,default,7,7Networks_LH_Default_Temp_3
+77,default,7,7Networks_LH_Default_Temp_4
+78,default,7,7Networks_LH_Default_Temp_5
+79,default,7,7Networks_LH_Default_Par_1
+80,default,7,7Networks_LH_Default_Par_2
+81,default,7,7Networks_LH_Default_Par_3
+82,default,7,7Networks_LH_Default_Par_4
+83,default,7,7Networks_LH_Default_PFC_1
+84,default,7,7Networks_LH_Default_PFC_2
+85,default,7,7Networks_LH_Default_PFC_3
+86,default,7,7Networks_LH_Default_PFC_4
+87,default,7,7Networks_LH_Default_PFC_5
+88,default,7,7Networks_LH_Default_PFC_6
+89,default,7,7Networks_LH_Default_PFC_7
+90,default,7,7Networks_LH_Default_PFC_8
+91,default,7,7Networks_LH_Default_PFC_9
+92,default,7,7Networks_LH_Default_PFC_10
+93,default,7,7Networks_LH_Default_PFC_11
+94,default,7,7Networks_LH_Default_PFC_12
+95,default,7,7Networks_LH_Default_PFC_13
+96,default,7,7Networks_LH_Default_pCunPCC_1
+97,default,7,7Networks_LH_Default_pCunPCC_2
+98,default,7,7Networks_LH_Default_pCunPCC_3
+99,default,7,7Networks_LH_Default_pCunPCC_4
+100,default,7,7Networks_LH_Default_PHC_1
+101,visual,1,7Networks_RH_Vis_1
+102,visual,1,7Networks_RH_Vis_2
+103,visual,1,7Networks_RH_Vis_3
+104,visual,1,7Networks_RH_Vis_4
+105,visual,1,7Networks_RH_Vis_5
+106,visual,1,7Networks_RH_Vis_6
+107,visual,1,7Networks_RH_Vis_7
+108,visual,1,7Networks_RH_Vis_8
+109,visual,1,7Networks_RH_Vis_9
+110,visual,1,7Networks_RH_Vis_10
+111,visual,1,7Networks_RH_Vis_11
+112,visual,1,7Networks_RH_Vis_12
+113,visual,1,7Networks_RH_Vis_13
+114,visual,1,7Networks_RH_Vis_14
+115,visual,1,7Networks_RH_Vis_15
+116,somatomotor,2,7Networks_RH_SomMot_1
+117,somatomotor,2,7Networks_RH_SomMot_2
+118,somatomotor,2,7Networks_RH_SomMot_3
+119,somatomotor,2,7Networks_RH_SomMot_4
+120,somatomotor,2,7Networks_RH_SomMot_5
+121,somatomotor,2,7Networks_RH_SomMot_6
+122,somatomotor,2,7Networks_RH_SomMot_7
+123,somatomotor,2,7Networks_RH_SomMot_8
+124,somatomotor,2,7Networks_RH_SomMot_9
+125,somatomotor,2,7Networks_RH_SomMot_10
+126,somatomotor,2,7Networks_RH_SomMot_11
+127,somatomotor,2,7Networks_RH_SomMot_12
+128,somatomotor,2,7Networks_RH_SomMot_13
+129,somatomotor,2,7Networks_RH_SomMot_14
+130,somatomotor,2,7Networks_RH_SomMot_15
+131,somatomotor,2,7Networks_RH_SomMot_16
+132,somatomotor,2,7Networks_RH_SomMot_17
+133,somatomotor,2,7Networks_RH_SomMot_18
+134,somatomotor,2,7Networks_RH_SomMot_19
+135,dorsal attention,3,7Networks_RH_DorsAttn_Post_1
+136,dorsal attention,3,7Networks_RH_DorsAttn_Post_2
+137,dorsal attention,3,7Networks_RH_DorsAttn_Post_3
+138,dorsal attention,3,7Networks_RH_DorsAttn_Post_4
+139,dorsal attention,3,7Networks_RH_DorsAttn_Post_5
+140,dorsal attention,3,7Networks_RH_DorsAttn_Post_6
+141,dorsal attention,3,7Networks_RH_DorsAttn_Post_7
+142,dorsal attention,3,7Networks_RH_DorsAttn_Post_8
+143,dorsal attention,3,7Networks_RH_DorsAttn_Post_9
+144,dorsal attention,3,7Networks_RH_DorsAttn_Post_10
+145,dorsal attention,3,7Networks_RH_DorsAttn_FEF_1
+146,dorsal attention,3,7Networks_RH_DorsAttn_FEF_2
+147,dorsal attention,3,7Networks_RH_DorsAttn_PrCv_1
+148,salience / ventral attention,4,7Networks_RH_SalVentAttn_TempOccPar_1
+149,salience / ventral attention,4,7Networks_RH_SalVentAttn_TempOccPar_2
+150,salience / ventral attention,4,7Networks_RH_SalVentAttn_TempOccPar_3
+151,salience / ventral attention,4,7Networks_RH_SalVentAttn_PrC_1
+152,salience / ventral attention,4,7Networks_RH_SalVentAttn_FrOperIns_1
+153,salience / ventral attention,4,7Networks_RH_SalVentAttn_FrOperIns_2
+154,salience / ventral attention,4,7Networks_RH_SalVentAttn_FrOperIns_3
+155,salience / ventral attention,4,7Networks_RH_SalVentAttn_FrOperIns_4
+156,salience / ventral attention,4,7Networks_RH_SalVentAttn_Med_1
+157,salience / ventral attention,4,7Networks_RH_SalVentAttn_Med_2
+158,salience / ventral attention,4,7Networks_RH_SalVentAttn_Med_3
+159,limbic,5,7Networks_RH_Limbic_OFC_1
+160,limbic,5,7Networks_RH_Limbic_OFC_2
+161,limbic,5,7Networks_RH_Limbic_OFC_3
+162,limbic,5,7Networks_RH_Limbic_TempPole_1
+163,limbic,5,7Networks_RH_Limbic_TempPole_2
+164,limbic,5,7Networks_RH_Limbic_TempPole_3
+165,control,6,7Networks_RH_Cont_Par_1
+166,control,6,7Networks_RH_Cont_Par_2
+167,control,6,7Networks_RH_Cont_Par_3
+168,control,6,7Networks_RH_Cont_Temp_1
+169,control,6,7Networks_RH_Cont_PFCv_1
+170,control,6,7Networks_RH_Cont_PFCl_1
+171,control,6,7Networks_RH_Cont_PFCl_2
+172,control,6,7Networks_RH_Cont_PFCl_3
+173,control,6,7Networks_RH_Cont_PFCl_4
+174,control,6,7Networks_RH_Cont_PFCl_5
+175,control,6,7Networks_RH_Cont_PFCl_6
+176,control,6,7Networks_RH_Cont_PFCl_7
+177,control,6,7Networks_RH_Cont_pCun_1
+178,control,6,7Networks_RH_Cont_Cing_1
+179,control,6,7Networks_RH_Cont_Cing_2
+180,control,6,7Networks_RH_Cont_PFCmp_1
+181,control,6,7Networks_RH_Cont_PFCmp_2
+182,default,7,7Networks_RH_Default_Par_1
+183,default,7,7Networks_RH_Default_Par_2
+184,default,7,7Networks_RH_Default_Par_3
+185,default,7,7Networks_RH_Default_Temp_1
+186,default,7,7Networks_RH_Default_Temp_2
+187,default,7,7Networks_RH_Default_Temp_3
+188,default,7,7Networks_RH_Default_Temp_4
+189,default,7,7Networks_RH_Default_Temp_5
+190,default,7,7Networks_RH_Default_PFCv_1
+191,default,7,7Networks_RH_Default_PFCdPFCm_1
+192,default,7,7Networks_RH_Default_PFCdPFCm_2
+193,default,7,7Networks_RH_Default_PFCdPFCm_3
+194,default,7,7Networks_RH_Default_PFCdPFCm_4
+195,default,7,7Networks_RH_Default_PFCdPFCm_5
+196,default,7,7Networks_RH_Default_PFCdPFCm_6
+197,default,7,7Networks_RH_Default_PFCdPFCm_7
+198,default,7,7Networks_RH_Default_pCunPCC_1
+199,default,7,7Networks_RH_Default_pCunPCC_2
+200,default,7,7Networks_RH_Default_pCunPCC_3
