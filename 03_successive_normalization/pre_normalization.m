@@ -1,4 +1,4 @@
-% Original Author: Adi Maron-Katz
+% Created by: Adi Maron-Katz
 % Edited by: Jisoo Lily Jeong
 % Date: May 27, 2020
 function pre_normalization(roi, output)
